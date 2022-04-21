@@ -1,0 +1,27 @@
+body {
+    background-color: #FFEEEE;
+}
+h1 {
+    color: #61C0BF;
+}
+.description {
+    color: #488FB1;
+}
+.part {
+    color: #F190B7;
+}
+.actors {
+    color: #4FD3C4;
+}
+.new {
+    color: #008E89;
+}
+.back {
+    color: #FFD32D;
+}
+table, tr, th, td {
+    border: 2px solid #4FD3C4
+}
+table {
+    width:40%;
+}
